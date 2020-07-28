@@ -1,0 +1,34 @@
+date,county,state,fips,cases,deaths
+2020-03-17,Napa,California,06055,1,0
+2020-03-17,Nevada,California,06057,1,0
+2020-03-17,Orange,California,06059,29,0
+2020-03-17,Placer,California,06061,8,1
+2020-03-17,Riverside,California,06065,16,3
+2020-03-17,San Francisco,California,06075,46,0
+2020-03-17,Canadian,Oklahoma,40017,2,0
+2020-03-17,Cleveland,Oklahoma,40027,1,0
+2020-04-17,Napa,California,06055,45,2
+2020-04-17,Nevada,California,06057,36,1
+2020-04-17,Orange,California,06059,1501,28
+2020-04-17,Placer,California,06061,130,8
+2020-04-17,Plumas,California,06063,4,0
+2020-04-17,Riverside,California,06065,2457,69
+2020-04-17,San Francisco,California,06075,1061,20
+2020-04-17,Canadian,Oklahoma,40017,69,3
+2020-04-17,Carter,Oklahoma,40019,1,0
+2020-04-17,Cherokee,Oklahoma,40021,24,1
+2020-04-17,Choctaw,Oklahoma,40023,3,0
+2020-04-17,Cleveland,Oklahoma,40027,306,21
+2020-05-15,Napa,California,06055,84,3
+2020-05-15,Nevada,California,06057,41,1
+2020-05-15,Orange,California,06059,4163,84
+2020-05-15,Placer,California,06061,174,9
+2020-05-15,Plumas,California,06063,4,0
+2020-05-15,Riverside,California,06065,5618,249
+2020-05-15,San Francisco,California,06075,2032,36
+2020-05-15,Canadian,Oklahoma,40017,116,3
+2020-05-15,Carter,Oklahoma,40019,8,1
+2020-05-15,Cherokee,Oklahoma,40021,29,1
+2020-05-15,Choctaw,Oklahoma,40023,3,0
+2020-05-15,Cimarron,Oklahoma,40025,1,0
+2020-05-15,Cleveland,Oklahoma,40027,459,35

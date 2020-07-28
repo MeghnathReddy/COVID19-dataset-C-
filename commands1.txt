@@ -1,0 +1,13 @@
+33
+covid_data1.csv
+1 Cleveland, Oklahoma
+1 San Francisco, California
+2 Carter, Oklahoma
+2 Riverside, California
+2 Napa, California
+3 Oklahoma
+3 California
+4 California
+4 Oklahoma
+5 Oklahoma 2020-03-14 2020-06-01
+6 California 2020-05-01 2020-06-01
